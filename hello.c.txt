@@ -1,0 +1,12 @@
+#include <stdio.h>
+
+void welcome()
+{
+  printf("Welcome to Team RAW!\n");
+}
+int main()
+{
+  printf("Hello Team RAW!\n");
+  welcome();
+  return 0;
+}
